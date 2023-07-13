@@ -1,3 +1,9 @@
+
+.busca{
+ display: flex;
+ justify-content: center;
+}
+
 .lista-tarefas {
   display: flex;
   flex-direction: column;

@@ -11,7 +11,7 @@
       "id": 2,
       "descricao": "Estudar sobre acessibilidade",
       "categoria": "Trabalho",
-      "statusFinalizado": false,
+      "statusFinalizado": true,
       "prioridade": "Normal"
     },
     {
@@ -34,6 +34,27 @@
       "statusFinalizado": true,
       "categoria": "Estudos",
       "prioridade": "Alta"
+    },
+    {
+      "id": 7,
+      "descricao": "dar copmida",
+      "statusFinalizado": true,
+      "categoria": "Casa",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 8,
+      "descricao": "tr",
+      "statusFinalizado": true,
+      "categoria": "Trabalho",
+      "prioridade": "Alta"
+    },
+    {
+      "id": 9,
+      "descricao": "gkjk",
+      "statusFinalizado": true,
+      "categoria": "Casa",
+      "prioridade": "Normal"
     }
   ]
 }
